@@ -2,3 +2,5 @@
 Работает с двумя API кинопоиска и Video CDN.
 Написан на библиотеке котлин бота https://github.com/kotlin-telegram-bot/kotlin-telegram-bot
 Ищет фильмы по поисковому запросу, показывает список найденных фильмов и по клику выводит выбранный фильм с ссылкой на онлайн просмотр.
+
+![bandicam 2022-05-15 13-13-59-060](https://user-images.githubusercontent.com/89396664/168467916-e3dd96ec-4d4d-432b-8508-f1426dbe93cc.gif)
